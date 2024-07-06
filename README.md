@@ -10,7 +10,15 @@ The Key Metrics include:
 - The total flights booked
 - The total number of customers enrolled in the loyalty program
 - The total number of customers by churn
-- The churn rate 
+- The churn rate
+
+# How to Use
+To explore the dashboard:
+
+- Use the navigation bar on the right to switch pages.
+- Hover over the charts to see detailed information.
+- Use the drill down arrow on line or area charts
+- Click on any data point to highlight related data across all visuals.
 
 
 
