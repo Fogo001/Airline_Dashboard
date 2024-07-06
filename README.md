@@ -19,6 +19,7 @@ To explore the dashboard:
 - Hover over the charts to see detailed information.
 - Use the drill down arrow on line or area charts
 - Click on any data point to highlight related data across all visuals.
+- Access dashboard https://github.com/Fogo001/Airline_Dashboard/blob/main/assets/docs/Airline_Dashboard.pbix
 
 
 
