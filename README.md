@@ -2,7 +2,7 @@
 # Data Portfolio: Dashboard on the Impact of Airline Loyalty Campaign Programs on Flight Bookings
 
 
-# Executive Summary
+## Executive Summary
 
 Following the analayis of the data. I've been asked by the head of Marketing to create a dashboard showing insights relating to the influence of airline loyalty program on flight bookings and customer churn.
 
